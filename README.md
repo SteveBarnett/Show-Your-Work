@@ -1,7 +1,8 @@
 # Show-Your-Work
 
 
-What are you working on? What's something interesting you've just learned? We want to hear from you. Yes, **you!** You don't have to give a long talk or run a workshop to share your knowledge and help other people learn something new. A 5 minute lightning talk will do!
+What are you working on? What's something interesting you've just learned? We want to hear from you. Yes, **you!** You don't have to give a long talk or run a workshop to share your knowledge and help other people learn something new. A 10
+minute lightning talk will do!
 
 Here's a handy template to **Show Your Work** to friends, family, and more! :)
 
